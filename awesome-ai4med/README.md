@@ -2,11 +2,11 @@
 
 最近在 GitHub 上挖到一个宝藏项目——`Awesome-AI4Med`，目前已经拿下 **2.7k stars**！
 
-![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/images/01-home.png)
+![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/awesome-ai4med/images/01-home.png)
 
 这项目干了件啥事呢？**把医疗 AI 领域零散的资源，整理成了一张完整的地图**——从`医疗大模型`到`多模态模型`，从`评测基准`到`开源数据集`，全给你归置得明明白白~
 
-![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/images/02-overview.png)
+![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/awesome-ai4med/images/02-overview.png)
 
 搞过医疗 AI 研究的兄弟应该都懂，光是"找资料、比模型、挑数据"这三步，就能把人耗掉一两周。知乎搜一圈、arxiv 翻几遍、HuggingFace 再跑一遍，结果还没开始写代码就累了~
 
@@ -30,7 +30,7 @@
 
 ### 1、医疗大模型
 
-![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/images/03-medical-llms.png)
+![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/awesome-ai4med/images/03-medical-llms.png)
 
 目前收录了主流的医疗垂直和多模态大模型，**一口气列了 20 多个**：
 
@@ -46,7 +46,7 @@
 
 做医疗 AI，躲不开"效果评估"这关。这里把主流基准整理了一遍：
 
-![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/images/05-benchmarks.png)
+![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/awesome-ai4med/images/05-benchmarks.png)
 
 - **MedEvalKit**：一个框架打包了 30+ 基准，多模态 + 纯文本都能跑
 - **MedBench**：中文医疗测评，覆盖 Med-Exam、MedHC、MedMC、CMeEE 等
@@ -58,7 +58,7 @@
 
 想训模型但没数据？这里有现成的，**分文本和多模态两大类**：
 
-![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/images/04-datasets.png)
+![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/awesome-ai4med/images/04-datasets.png)
 
 文本类：
 - Huatuo-26M（**2600 万条**中文医疗问答）
