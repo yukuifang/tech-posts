@@ -1,4 +1,4 @@
-好家伙！就在刚才，`DeepSeek V4` 直接王炸登场！
+真就是毫无预警！`DeepSeek V4` 今天直接掀桌子了！
 
 ![](https://cdn.jsdelivr.net/gh/yukuifang/tech-posts@master/deepseek-v4/images/01-hero.png)
 
